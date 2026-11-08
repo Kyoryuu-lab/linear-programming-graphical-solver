@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td><b>Problem 5</b></td>
-    <td>$x_1 + 2x_2 \geq 80$, $3x_1 + x_2 \geq 75$[span_52](start_span)[span_52](end_span)</td>
+    <td>$x_1 + 2x_2 \geq 80$, $3x_1 + x_2 \geq 75$</td>
     <td>Unbounded minimization region above lower envelope</td>
   </tr>
 </table>
